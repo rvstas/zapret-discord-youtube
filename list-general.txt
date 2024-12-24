@@ -9,7 +9,7 @@ jnn-pa.googleapis.com
 youtube-nocookie.com
 youtube-ui.l.google.com
 yt-video-upload.l.google.com
-wide-youtube.l.google.com
+wide-youtube.l.google.com  
 youtubekids.com
 ggpht.com
 discord.com
@@ -34,3 +34,4 @@ discord-attachments-uploads-prd.storage.googleapis.com
 7tv.io
 10tv.app
 cloudflare-ech.com
+tlap.com  
